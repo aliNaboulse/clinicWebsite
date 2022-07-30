@@ -1,0 +1,116 @@
+span {
+
+color:blue
+
+}
+
+h2 {
+
+text-align:center;
+
+border-radius:10px 10px 0 0;
+
+margin:-10px -40px;
+
+padding:15px;
+
+color:blue;
+
+}
+
+#login {
+
+width:250px;
+
+border-radius:10px;
+
+font-family:raleway;
+
+border:4px solid blue;
+
+padding:10px 30px 25px;
+
+margin-top:70px;
+
+margin-left:1032px;
+
+}
+
+input[type=text],input[type=password] {
+
+width:100%;
+
+padding:10px;
+
+border-radius:10px;
+
+margin-top:8px;
+
+margin-bottom:20px;
+
+border:1px solid blue;
+
+padding-left:10px;
+
+font-size:16px;
+
+font-family:raleway;
+
+}
+
+input[type=submit] {
+
+width:50%;
+
+background-color:blue;
+
+color:#fff;
+
+border:2px solid blue;
+
+padding:10px;
+
+font-size:20px;
+
+margin-left:70px;
+
+cursor:pointer;
+
+border-radius:5px;
+
+margin-bottom:15px
+
+}
+
+a {
+
+color:blue
+
+}
+
+body{
+
+    background-image: url("images/login.jpg");
+
+    background-size:cover;
+
+    position: absolute;
+
+    background-repeat: no-repeat;
+
+    overflow:hidden;
+
+    background-color:#cccccc;
+
+    height: 600px;
+
+}
+
+i{
+
+    color:blue;
+
+}
+
+
+
